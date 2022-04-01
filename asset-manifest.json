@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/css/main.0b961cda.css",
+    "main.js": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/js/main.996610ac.js",
+    "static/media/logo.svg": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/index.html",
+    "static/media/icon-dice.svg": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.0b961cda.css.map": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/css/main.0b961cda.css.map",
+    "main.996610ac.js.map": "/https//dipali123-gupta.github.io/Frontend-mentor-challenge/static/js/main.996610ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b961cda.css",
+    "static/js/main.996610ac.js"
+  ]
+}
